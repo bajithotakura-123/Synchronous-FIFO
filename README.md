@@ -61,10 +61,3 @@ The FIFO design has been validated against the following scenarios:
 ## 🤝 Contributions
 
 Contributions are welcome! Feel free to fork this repo and submit pull requests.
-
----
-
-## 🔗 Connect with Me
-
-* [LinkedIn](https://linkedin.com/in/rakesh-magapu-592b28221)
-* Email: [rakeshmagapu5@gmail.com](mailto:rakeshmagapu5@gmail.com)
